@@ -1,0 +1,17 @@
+# Artefatos de build de imagem
+*.iso
+*.qcow2
+*.raw
+*.vmdk
+*.vhdx
+*.packages
+*.verified
+*.sha256
+build/
+target/
+
+# Editores
+*.swp
+*~
+.vscode/
+.idea/
